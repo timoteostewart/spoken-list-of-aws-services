@@ -1,0 +1,964 @@
+1-click: one click
+1/18th: one eighteenth
+3d: three d.
+53: fifty three
+5g: five g.
+activemq: active m.q., or active message queue
+api: a.p.i., or application programming interface
+apis: a.p. eyes, or application programming interfaces
+appconfig: app config
+appstream: app stream
+ar: a.r., or augmented reality
+aws's: a.w.s's
+aws: a.w.s.
+braket: bracket
+chatbot: chat bot
+chatops: chat ops
+cloud9: cloud nine
+cloudformation: cloud formation
+cloudhsm: cloud hardware security module
+cloudsearch: cloud search
+cloudshell: cloud shell
+cloudtrail: cloud trail
+cloudwatch: cloud watch
+codeartifact: code artifact
+codebuild: code build
+codecommit: code commit
+codedeploy: code deploy
+codeguru: code guru
+codepipeline: code pipeline
+codestar: code star
+codewhisperer: code whisperer
+databrew: data brew
+datasync: data sink
+ddos: d. doss, or distributed denial of service
+dns: d.n.s., or domain name system
+documentdb: document d.b.
+dynamodb: dynamo d.b.
+ec2: e.c. two, or elastic compute cloud
+efs: e.f.s., or elastic file storage
+elasticache: elastic cache
+emr: e.m.r., or elastic map reduce
+eventbridge: event bridge
+finspace: fin space
+fis: f.i.s., or fault injection simulator
+freertos: free r.t.o.s., or free real time operating system
+fsx: f.s.x., or file system ex
+ftp: f.t.p.
+ftps: f.t.p.s.
+gamelift: game lift
+gamesparks: game sparks
+graphql: graph q.l.
+greengrass: green grass
+hadoop: ha-doop
+healthlake: health lake
+ide: i.d.e., or integrated development environment
+ios: i.o.s.
+iot: i.o.t., or internet of things
+iq: i.q.
+it: i.t., or information technology
+k8s: kate's, or coup burr net ease
+kubernetes: coup burr net ease
+lightsail: light sail
+macie: may see
+mediaconnect: media connect
+mediaconvert: media convert
+medialive: media live
+mediapackage: media package
+mediastore: media store
+mediatailor: media tailor
+memorydb: memory d.b.
+mgn: m.g.n., or migration
+ml-powered: m.l. powered, or machine learning powered
+mongodb: mong go d.b.
+mq: m.q., or message queue
+msk: m.s.k., or managed serverless kafka
+nosql: no s.q.l., or not s.q.l. or not only s.q.l.
+openshift: open shift
+opsworks: ops works
+os: o.s., or operating system
+pub/sub: pub sub, or publish subscribe
+qldb: q.l.d.b., or quantum ledger database
+quicksight: quick sight
+rabbitmq: rabbit m.q., or rabbit message queue
+rds: r.d.s., or relational database service
+redis: red-is
+rekognition: recognition
+robomaker: robo maker
+roborunner: row bo runner
+s3: s. three, or simple storage service
+sagemaker: sage maker
+sdk: s.d.k., or software development kit
+sftp: s.f.t.p.
+sign-on: sign on
+sitewise: site wise
+sms: s.m.s., or short message service
+sns: s.n.s.
+sql: s.q.l.
+ssl/tls: s.s.l. t.l.s., or secure sockets layer, transport layer security
+sumerian: sue mare ian
+swf: s.w.f., or simple workflow service
+twinmaker: twin maker
+vr: v.r., or virtual reality
+waf: w.a.f., or waff, or web application firewall
+wickr: wicker
+workdocs: work docs
+workmail: work mail
+x-ray: x. ray
+
+
+---
+
+- Analytics
+
+Athena
+Query Data in S3 using SQL
+
+
+CloudSearch
+Managed Search Service
+
+
+AWS Data Exchange
+Easily find, subscribe to, and use third-party data
+
+
+Data Pipeline
+Orchestration for Data-Driven Workflows
+
+
+EMR
+Managed Hadoop Framework
+
+
+Amazon FinSpace
+Store, catalog, prepare, and analyze financial industry data
+
+
+AWS Glue
+AWS Glue is ay serverless data integration service.
+
+
+AWS Glue DataBrew
+Visual data preparation tool to clean and normalize data for analytics and machine learning
+
+
+Kinesis
+Work with Real-Time Streaming Data
+
+
+AWS Lake Formation
+AWS Lake Formation makes it easy to set up ay secure data lake
+
+
+MSK
+Fully managed, highly available, and secure service for Apache Kafka
+
+
+Amazon OpenSearch Service
+Run and Scale OpenSearch and Elasticsearch Clusters
+
+
+QuickSight
+Fast, easy to use business analytics
+
+
+Amazon Redshift
+Fast, Simple, Cost-Effective Data Warehousing
+
+- Application Integration
+
+Amazon AppFlow
+Amazon AppFlow integrates apps and automates data flows without code.
+
+
+Amazon EventBridge
+Serverless service for building event-driven applications.
+
+
+Managed Apache Airflow
+Run Apache Airflow without provisioning or managing servers.
+
+
+Amazon MQ
+Managed message broker service for Apache ActiveMQ and RabbitMQ
+
+
+Simple Notification Service
+SNS managed message topics for Pub/Sub
+
+
+Simple Queue Service
+SQS Managed Message Queues
+
+
+Step Functions
+Coordinate Distributed Applications
+
+
+SWF
+Workflow Service for Coordinating Application Components
+
+- AR & VR
+
+Amazon Sumerian
+Build VR, AR, and 3D applications
+
+- AWS Cost Management
+
+AWS Application Cost Profiler
+Cost per tenant and workload
+
+
+AWS Billing Conductor
+Simplifying your billing practice
+
+
+AWS Budgets
+Set Custom Budgets and Receive Alerts
+
+
+AWS Cost Explorer
+Visualize and Explore Your AWS Costs and Usage
+
+
+AWS Marketplace Subscriptions
+Digital catalog where you can find, buy, and deploy software
+
+- Blockchain
+
+Amazon Managed Blockchain
+Easily create and manage scalable blockchain networks
+
+
+- Business Applications
+
+Alexa for Business
+Alexa for Business Provides Tools to Manage Alexa in Your Organization
+
+
+Amazon Chime
+Amazon Chime is ay communications service that transforms online meetings
+
+
+Amazon Chime SDK
+Real-time communication for your applications
+
+
+Amazon Connect
+Amazon Connect is ay contact center that enables engagement at any scale.
+
+
+Amazon Honeycode
+Build mobile and web apps without programming
+
+
+Amazon Pinpoint
+Engage Users via Email, SMS, Push & Analytics
+
+
+Amazon Simple Email Service
+Email Sending and Receiving Service
+
+
+AWS Wickr
+Secure communication with end-to-end encryption
+
+
+Amazon WorkDocs
+Secure Enterprise Storage and Sharing Service
+
+
+Amazon WorkMail
+Secure Email and Calendaring Service
+
+- Compute
+
+AWS App Runner
+Build and run production web applications at scale
+
+
+Batch
+Fully managed batch processing at any scale
+
+
+EC2
+Virtual Servers in the Cloud
+
+
+EC2 Image Builder
+A managed service to automate build, customize and deploy OS images
+
+
+Elastic Beanstalk
+Run and Manage Web Apps
+
+
+Lambda
+Run Code without Thinking about Servers
+
+
+Lightsail
+Launch and Manage Virtual Private Servers
+
+
+AWS Outposts
+Run AWS Services On Premises
+
+
+Serverless Application Repository
+Assemble, deploy, and share serverless applications within teams or publicly
+
+- Containers
+
+Elastic Container Registry
+Fully-managed Docker container registry : Share and deploy container software, publicly or privately
+
+
+Elastic Container Service
+Highly secure, reliable, and scalable way to run containers
+
+
+Elastic Kubernetes Service
+The most trusted way to start, run, and scale Kubernetes
+
+
+Red Hat OpenShift Service on AWS
+Fully managed Red Hat OpenShift service on AWS
+
+- Customer Enablement
+
+Activate for Startups
+AWS Activate provides resources to help startups build and grow on AWS. 
+
+
+AWS IQ
+Complete projects faster with help from third-party AWS Certified experts
+
+
+Managed Services
+IT operations management for AWS
+
+
+Support
+Contact AWS for technical and account support.
+
+- Database
+
+Amazon DocumentDB
+Fully-managed MongoDB-compatible database service
+
+
+DynamoDB
+Managed NoSQL Database
+
+
+ElastiCache
+In-Memory Cache
+
+
+Amazon Keyspaces
+Serverless Cassandra-compatible database
+
+
+Amazon MemoryDB for Redis
+Fully managed, Redis-compatible, in-memory database service
+
+
+Neptune
+Fast, reliable graph database built for the cloud
+
+
+Amazon QLDB
+Fully managed ledger database
+
+
+RDS
+Managed Relational Database Service
+
+
+Amazon Timestream
+Amazon Timestream is ay fast, scalable, and serverless time series database for IoT and operational applications.
+
+- Developer Tools
+
+AWS AppConfig
+Use feature flags, operational flags, and other runtime configuration to make changes quickly and safely on production
+
+
+Cloud9
+A Cloud IDE for Writing, Running, and Debugging Code
+
+
+CloudShell
+A browser-based shell with AWS CLI access from the AWS Management Console
+
+
+CodeArtifact
+Secure, scalable, and cost-effective artifact management for software development
+
+
+CodeBuild
+Build and Test Code
+
+
+CodeCommit
+Store Code in Private Git Repositories
+
+
+CodeDeploy
+Automate Code Deployments
+
+
+CodePipeline
+Release Software using Continuous Delivery
+
+
+CodeStar
+Quickly develop, build, and deploy applications
+
+
+Amazon CodeWhisperer
+Build applications faster with the ML-powered coding companion.
+
+
+AWS FIS
+Improve resiliency and performance with controlled experiments.
+
+
+X-Ray
+Analyze and Debug Your Applications
+
+- End User Computing
+
+AppStream 2.0
+Stream desktop applications securely to any web browser
+
+
+WorkSpaces
+Desktops in the Cloud
+
+
+WorkSpaces Web
+Cloud-native secure web access
+
+- Front-end Web & Mobile
+
+AWS Amplify
+AWS Amplify is ay complete platform—frameworks & tools and app services—for developing, building, testing, and running mobile and web apps
+
+
+AWS AppSync
+Real-Time Data Sync Using GraphQL for Mobile & Web Apps, Online or Offline
+
+
+Device Farm
+Test Android, iOS, and Web Apps on Real Devices in the Cloud
+
+
+Amazon Location Service
+Securely and easily add location data to applications.
+
+- Game Development
+
+Amazon GameLift
+Deploy and Scale Session-based Multiplayer Games
+
+
+Amazon GameSparks
+Build, optimize, and scale customizable game features.
+
+- Internet of Things
+
+FreeRTOS
+FreeRTOS is an IoT Operating System for Microcontrollers
+
+
+IoT 1-Click
+Trigger AWS Lambda functions from simple devices
+
+
+IoT Analytics
+Collect, preprocess, store, analyze and visualize data of IoT devices
+
+
+IoT Core
+Connect Devices to the Cloud
+
+
+IoT Device Defender
+Secure your fleet of connected IoT devices
+
+
+IoT Device Management
+Securely Manage Fleets as Small as One Device, or as Broad as Millions of Devices
+
+
+IoT Events
+Monitor device fleets for changes and trigger alerts to respond
+
+
+AWS IoT FleetWise
+Easily collect, organize, and transfer vehicle data to the cloud at scale.
+
+
+IoT Greengrass
+Deploy and run code on your devices
+
+
+IoT RoboRunner
+Optimize robotics automation
+
+
+IoT SiteWise
+Data driven decisions in Industrial operations
+
+
+IoT TwinMaker
+Easily create digital twins of real-world systems to optimize operations
+
+- Machine Learning
+
+Amazon Augmented AI
+Easily implement human review of machine learning predictions
+
+
+Amazon CodeGuru
+Intelligent recommendations for building and running modern applications
+
+
+Amazon Comprehend
+Analyze Unstructured Text
+
+
+Amazon Comprehend Medical
+Amazon Comprehend Medical uses machine learning to extract insights and relationships from medical text.
+
+
+AWS DeepComposer
+AWS DeepComposer allows developers of all skill levels to get started with Generative AI.
+
+
+AWS DeepLens
+Deep Learning Enabled Video Camera
+
+
+AWS DeepRacer
+Fully autonomous 1/18th scale race car, driven by machine learning
+
+
+Amazon DevOps Guru
+ML-powered cloud operations service to improve application availability.
+
+
+Amazon Forecast
+Amazon Forecast is ay fully-managed service for accurate time-series forecasting
+
+
+Amazon Fraud Detector
+Detect more online fraud faster using machine learning
+
+
+Amazon HealthLake
+Making sense of health data
+
+
+Amazon Kendra
+Highly accurate enterprise search service powered by machine learning
+
+
+Amazon Lex
+Build Voice and Text Chatbots
+
+
+Amazon Lookout for Equipment
+Detect abnormal equipment behavior by analyzing sensor data
+
+
+Amazon Lookout for Metrics
+Accurately detect anomalies in your business metrics and quickly understand why
+
+
+Amazon Lookout for Vision
+Identify defects using computer vision to automate quality inspection.
+
+
+Amazon Monitron
+End-to-end system for equipment monitoring
+
+
+AWS Panorama
+Enabling computer vision applications at the edge
+
+
+Amazon Personalize
+Amazon Personalize helps you easily add real-time recommendations to your apps
+
+
+Amazon Polly
+Turn Text into Lifelike Speech
+
+
+Amazon Rekognition
+Search and Analyze Images
+
+
+Amazon SageMaker
+Build, Train, and Deploy Machine Learning Models
+
+
+Amazon Textract
+Easily extract text and data from virtually any document
+
+
+Amazon Transcribe
+Powerful Speech Recognition
+
+
+Amazon Translate
+Powerful Neural Machine Translation
+
+- Management & Governance
+
+AWS Auto Scaling
+AWS Auto Scaling enables you to quickly scale your entire application on AWS
+
+
+AWS Chatbot
+ChatOps for AWS
+
+
+CloudFormation
+Create and Manage Resources with Templates
+
+
+CloudTrail
+Track User Activity and API Usage
+
+
+CloudWatch
+Monitor Resources and Applications
+
+
+AWS Compute Optimizer
+Recommend optimal AWS Compute resources for your workloads
+
+
+Config
+Track Resource Inventory and Changes
+
+
+Control Tower
+The easiest way to set up and govern ay secure, compliant multi-account environment
+
+
+Amazon Grafana
+Fully managed Grafana service for interactive data visualizations and dashboarding
+
+
+Incident Manager
+Automated incident response plans in AWS Systems Manager.
+
+
+Launch Wizard
+guided deployment of enterprise applications
+
+
+AWS License Manager
+Set rules to manage, discover, and report third-party license usage proactively
+
+
+OpsWorks
+Configuration Management with Chef and Puppet
+
+
+AWS Organizations
+Central governance and management across AWS accounts.
+
+
+Amazon Prometheus
+A fully managed Prometheus-compatible monitoring service.
+
+
+AWS Proton
+Manage your infrastructure so developers can focus on coding.
+
+
+AWS Resilience Hub
+AWS Resilience Hub provides ay central place to define, validate, and track the resiliency of applications on AWS.
+
+
+AWS Resource Explorer
+Easily search for and discover relevant resources across AWS
+
+
+Resource Groups & Tag Editor
+AWS Resource Groups Lets You Search and Group AWS Resources
+
+
+Service Catalog
+Create and Use Standardized Products
+
+
+Systems Manager
+AWS Systems Manager is ay Central Place to View and Manage AWS Resources
+
+
+Trusted Advisor
+Optimize Performance and Security
+
+
+AWS Well-Architected Tool
+Use AWS Well-Architected Tool to learn best practices, measure, and improve your workloads
+
+
+AWS Health Dashboard
+
+- Media Services
+
+Elastic Transcoder
+Easy-to-Use Scalable Media Transcoding
+
+
+Elemental Appliances & Software
+On-premises solutions for video processing and delivery
+
+
+Amazon Interactive Video Service
+Managed interactive live streams
+
+
+Kinesis Video Streams
+Capture, Process, and Store Video Streams for Analytics and Machine Learning
+
+
+MediaConnect
+Reliable, secure, and flexible transport for live video
+
+
+MediaConvert
+Convert file-based content for broadcast and multiscreen delivery
+
+
+MediaLive
+Convert video inputs into live outputs for broadcast and streaming delivery
+
+
+MediaPackage
+Deliver video to many devices using just-in-time format conversion
+
+
+MediaStore
+Store and deliver video assets for live or on-demand media workflows
+
+
+MediaTailor
+Personalize and monetize multiscreen content with server-side ad insertion
+
+
+Nimble Studio
+Accelerate building ay cloud-based content creation studio or setup your Thinkbox Deadline render farm
+
+- Migration & Transfer
+
+Application Discovery Service
+Discover on-premises application inventory and dependencies
+
+
+AWS Application Migration Service
+AWS Application Migration Service (MGN) automates lift-and-shift migration.
+
+
+Database Migration Service
+Managed Database Migration Service
+
+
+DataSync
+DataSync simplifies, automates, and accelerates moving data
+
+
+AWS Mainframe Modernization
+AWS Mainframe Modernization
+
+
+AWS Migration Hub
+Simplify and accelerate the migration of your data centers to AWS
+
+
+AWS Snow Family
+Large Scale Data Transport
+
+
+AWS Transfer Family
+Fully managed support for SFTP, FTPS and FTP
+
+- Networking & Content Delivery
+
+API Gateway
+Build, Deploy and Manage APIs
+
+
+AWS App Mesh
+Easily monitor and control microservices
+
+
+AWS Cloud Map
+Build ay dynamic map of your cloud
+
+
+CloudFront
+Global Content Delivery Network
+
+
+Direct Connect
+Dedicated Network Connection to AWS
+
+
+Global Accelerator
+Improve your application’s availability and performance using the AWS Global Network
+
+
+AWS Private 5G
+Deploy and scale private mobile networks on-premises
+
+
+Route 53
+Scalable DNS and Domain Name Registration
+
+
+Route 53 Application Recovery Controller
+Monitor application recovery readiness and manage failovers
+
+
+VPC
+Isolated Cloud Resources
+
+- Quantum Technologies
+
+Amazon Braket
+Service for exploring, evaluating, and experimenting with quantum computing.
+
+- Robotics
+
+AWS RoboMaker
+Develop, test, and deploy intelligent robotics applications
+
+- Satellite
+
+Ground Station
+Communicate with satellites
+
+- Security, Identity, & Compliance
+
+AWS Artifact
+AWS Compliance Reports and Agreements
+
+
+AWS Audit Manager
+Continuously assess controls for risk and compliance
+
+
+Certificate Manager
+Provision, Manage, and Deploy SSL/TLS Certificates
+
+
+CloudHSM
+Managed Hardware Security Modules in the Cloud
+
+
+Cognito
+Consumer Identity Management and AWS Credentials for Federated Identities
+
+
+Detective
+Investigate and analyze potential security issues
+
+
+Directory Service
+Host and Manage Active Directory
+
+
+AWS Firewall Manager
+Central management of firewall rules
+
+
+GuardDuty
+Intelligent Threat Detection to Protect Your AWS Accounts and Workloads
+
+
+IAM
+Manage access to AWS resources
+
+
+IAM Identity Center (successor to AWS Single Sign-On)
+Manage workforce user access to multiple AWS accounts and cloud applications
+
+
+Amazon Inspector
+Continual vulnerability management at scale
+
+
+Key Management Service
+Securely Generate and Manage AWS Encryption Keys
+
+
+Amazon Macie
+Amazon Macie classifies and secures your business-critical content.
+
+
+AWS Network Firewall
+AWS Network Firewall
+
+
+Resource Access Manager
+Share AWS resources with other accounts or AWS Organizations
+
+
+Secrets Manager
+Easily rotate, manage, and retrieve secrets throughout their lifecycle
+
+
+Security Hub
+AWS Security Hub is AWS’s security and compliance center
+
+
+AWS Signer
+Ensuring trust and integrity of your code
+
+
+Amazon Verified Permissions
+Manage, analyze and enforce permissions across your applications
+
+
+WAF & Shield
+Protects Against DDoS Attacks and Malicious Web Traffic
+
+- Storage
+
+AWS Backup
+AWS Backup centrally manages and automates backups across AWS services
+
+
+EFS
+Managed File Storage for EC2
+
+
+AWS Elastic Disaster Recovery
+Scalable, cost-effective application recovery to AWS
+
+
+FSx
+Fully managed third-party file systems optimized for ay variety of workloads
+
+
+S3
+Scalable Storage in the Cloud
+
+
+S3 Glacier
+Archive Storage in the Cloud
+
+
+Storage Gateway
+Hybrid Storage Integration
+
